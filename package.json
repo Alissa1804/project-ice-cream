@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Makoto-kino14.github.io/ice-cream-html-css-project2",
+  "homepage": "https://Alissa1804.github.io/project-ice-cream",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /ice-cream-html-css-project2/"
+    "build": "parcel build src/*.html --public-url /project-ice-cream/"
   },
   "repository": {
     "type": "git",
